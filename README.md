@@ -1,5 +1,6 @@
 # PruebaMasiv
 Elaboración prueba tecnica de Masiv
+
 Proyecto que tiene las siguientes capas:
  - CommonInterfaces (Interfaces, entidades y enumeraciones en comun y usadas en todos los proyectos).
  - Data (Capa de acceso a datos, se utilizo ADO.NET) la cadena de conexion esta configurada como una variable de entorno.
